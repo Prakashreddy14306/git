@@ -4,7 +4,7 @@ My Project
 ## installation 
 
 - Cool new widget
-
+- feature cooler
 
 
 - Even cooler v2
