@@ -24,3 +24,5 @@ My Project
 - wrong commit
 
 - new check 
+- squash
+- rebase
