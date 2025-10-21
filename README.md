@@ -16,30 +16,11 @@ My Project
 - main second cooler
 - main second cooler v2
 
-
-
-
-
-
-
-
-
-
-
-- main 1
-
-
-
-
-
-
-
-
-
-
 - feature
 - feature second cooler
 
 - wrong commit
 - correct commit
 - wrong commit
+
+- new check 
