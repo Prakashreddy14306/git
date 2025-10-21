@@ -5,9 +5,9 @@ My Project
 
 - Cool new widget
 - feature cooler
+- feature cooler v1
 
-
-- Even cooler v2
+ Even cooler v2
 - main cooler
 
 
