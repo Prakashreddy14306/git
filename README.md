@@ -40,5 +40,6 @@ My Project
 - feature
 - feature second cooler
 
+- wrong commit
 - correct commit
 - wrong commit
